@@ -72,12 +72,6 @@ The project requires the following Python libraries:
    ```
 3. The script generates and solves the optimization problem, and the solution is visualized as a graph.
 
-## Features
-
-- **Random Problem Generation:** Create customizable data sets with random locations and cost matrices.
-- **Graph Optimization:** Solve a facility assignment and connection problem using binary decision variables and constraints.
-- **Custom Callbacks:** Refine solutions using lazy constraints, user cuts, and heuristic approaches.
-- **Visualization:** Display and save the solution graph for analysis.
 
 ## Customization
 
